@@ -1,0 +1,14 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfJoining": "2024-01-15",
+        "place": "New York"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "dateOfJoining": "2023-03-10",
+        "place": "Los Angeles"
+    }
+]
